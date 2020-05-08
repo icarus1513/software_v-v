@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="620fa1bd-4da6-425c-bc68-9ba8a5d1fe6c" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/5.2.1/executionHistory/executionHistory.lock" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="PREVIOUS_COMMIT_AUTHORS">
+      <list>
+        <option value="feuziq47 &lt;feuziq47@gmail.com&gt;" />
+      </list>
+    </option>
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1bOLawrz2pE36uw7j3kVtZbsYdP" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="SDKs" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.3643678" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.project.gradle" />
+  </component>
+  <component name="RunManager">
+    <configuration name="CalculatorTests.add" type="GradleRunConfiguration" factoryName="Gradle" temporary="true">
+      <ExternalSystemSettings>
+        <option name="executionName" />
+        <option name="externalProjectPath" value="$PROJECT_DIR$" />
+        <option name="externalSystemIdString" value="GRADLE" />
+        <option name="scriptParameters" value="--tests &quot;CalculatorTests.add&quot;" />
+        <option name="taskDescriptions">
+          <list />
+        </option>
+        <option name="taskNames">
+          <list>
+            <option value=":cleanTest" />
+            <option value=":test" />
+          </list>
+        </option>
+        <option name="vmOptions" />
+      </ExternalSystemSettings>
+      <GradleScriptDebugEnabled>false</GradleScriptDebugEnabled>
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Gradle.CalculatorTests.add" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="620fa1bd-4da6-425c-bc68-9ba8a5d1fe6c" name="Default Changelist" comment="" />
+      <created>1588498260531</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1588498260531</updated>
+      <workItem from="1588498267116" duration="167000" />
+      <workItem from="1588498480712" duration="965000" />
+      <workItem from="1588513538003" duration="3645000" />
+      <workItem from="1588568499687" duration="579000" />
+      <workItem from="1588913952118" duration="398000" />
+      <workItem from="1588916445353" duration="6431000" />
+    </task>
+    <task id="LOCAL-00001" summary="docker jenkins test">
+      <created>1588568555856</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1588568555856</updated>
+    </task>
+    <task id="LOCAL-00002" summary="slack, github, redmin, jenkins">
+      <created>1588918475061</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1588918475061</updated>
+    </task>
+    <task id="LOCAL-00003" summary="gradle update">
+      <created>1588921078629</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1588921078629</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="docker jenkins test" />
+    <MESSAGE value="slack, github, redmin, jenkins" />
+    <MESSAGE value="gradle update" />
+    <option name="LAST_COMMIT_MESSAGE" value="gradle update" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="72" y="182" key="#Project_Structure" timestamp="1588513707230">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="72" y="182" key="#Project_Structure/0.0.1920.1040@0.0.1920.1040" timestamp="1588513707230" />
+    <state x="76" y="27" key="CommitChangelistDialog2" timestamp="1588921077436">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="76" y="27" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1588921077436" />
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom" timestamp="1588914349690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.bottom/0.0.1920.1040@0.0.1920.1040" timestamp="1588914349690" />
+    <state width="1877" height="294" key="GridCell.Tab.0.center" timestamp="1588914349690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.center/0.0.1920.1040@0.0.1920.1040" timestamp="1588914349690" />
+    <state width="1877" height="294" key="GridCell.Tab.0.left" timestamp="1588914349690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.left/0.0.1920.1040@0.0.1920.1040" timestamp="1588914349690" />
+    <state width="1877" height="294" key="GridCell.Tab.0.right" timestamp="1588914349690">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state width="1877" height="294" key="GridCell.Tab.0.right/0.0.1920.1040@0.0.1920.1040" timestamp="1588914349690" />
+    <state x="440" y="94" key="SettingsEditor" timestamp="1588921021818">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="440" y="94" key="SettingsEditor/0.0.1920.1040@0.0.1920.1040" timestamp="1588921021818" />
+    <state x="629" y="344" key="com.intellij.ide.util.TipDialog" timestamp="1588916446406">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="629" y="344" key="com.intellij.ide.util.TipDialog/0.0.1920.1040@0.0.1920.1040" timestamp="1588916446406" />
+  </component>
+</project>
